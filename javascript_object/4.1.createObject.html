@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>02.createObject</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+          var object1 = {
+            a:1,
+            b:2
+          };
+          
+          var object2 = Object.create(object1);
+          var object3 = Object.getPrototypeOf(object2);
+
+          console.log(object3);
+
+
+          var p = {x:1};
+          var o = Object.create(p);
+          var value1 = p.isPrototypeOf(o);
+          var value2 =  Object.prototype.isPrototypeOf(o);
+
+          // var value3 =  o.isPrototypeOf(p);
+          // var value4 =  Object.prototype.isPrototypeOf(p);
+        
+
+          debugger;
+
+          var x = [];
+          var x1 = Object.getPrototypeOf(x);
+
+        </script>
+    </head>
+</html>

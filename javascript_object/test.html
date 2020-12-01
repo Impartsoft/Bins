@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>avalon</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+            var object = {
+                value:1,
+                count:function(){
+                    return 2
+                }
+            };
+            var a = object.count();
+            console.log(a);
+            var b = Object.getOwnPropertyDescriptor(object,"count");
+            console.log(b);
+            
+            var c = Object.keys(object);
+            console.log(c);
+
+            for(var o in object){
+                console.log(object[o]);
+            }
+
+        </script>
+    </head>
+    <body>
+        <div>
+    
+        </div>
+    </body>
+</html>
