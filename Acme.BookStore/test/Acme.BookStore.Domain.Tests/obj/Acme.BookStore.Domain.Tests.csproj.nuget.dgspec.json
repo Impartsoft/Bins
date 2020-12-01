@@ -1,0 +1,610 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Domain.Tests\\Acme.BookStore.Domain.Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "projectName": "Acme.BookStore.Domain.Shared",
+        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.IdentityServer.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.TenantManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj",
+        "projectName": "Acme.BookStore.Domain",
+        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Volo.Abp.AuditLogging.Domain": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.Identity.Domain": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.IdentityServer.Domain": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Identity": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.IdentityServer": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.SettingManagement.Domain": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.TenantManagement.Domain": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj",
+        "projectName": "Acme.BookStore.EntityFrameworkCore.DbMigrations",
+        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj": {
+                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj",
+        "projectName": "Acme.BookStore.EntityFrameworkCore",
+        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
+                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Volo.Abp.AuditLogging.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.BackgroundJobs.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.FeatureManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.IdentityServer.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.PermissionManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.SettingManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.TenantManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Domain.Tests\\Acme.BookStore.Domain.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Domain.Tests\\Acme.BookStore.Domain.Tests.csproj",
+        "projectName": "Acme.BookStore.Domain.Tests",
+        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Domain.Tests\\Acme.BookStore.Domain.Tests.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Domain.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.EntityFrameworkCore.Tests\\Acme.BookStore.EntityFrameworkCore.Tests.csproj": {
+                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.EntityFrameworkCore.Tests\\Acme.BookStore.EntityFrameworkCore.Tests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.EntityFrameworkCore.Tests\\Acme.BookStore.EntityFrameworkCore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.EntityFrameworkCore.Tests\\Acme.BookStore.EntityFrameworkCore.Tests.csproj",
+        "projectName": "Acme.BookStore.EntityFrameworkCore.Tests",
+        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.EntityFrameworkCore.Tests\\Acme.BookStore.EntityFrameworkCore.Tests.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.EntityFrameworkCore.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj": {
+                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj"
+              },
+              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.TestBase\\Acme.BookStore.TestBase.csproj": {
+                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.TestBase\\Acme.BookStore.TestBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.TestBase\\Acme.BookStore.TestBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.TestBase\\Acme.BookStore.TestBase.csproj",
+        "projectName": "Acme.BookStore.TestBase",
+        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.TestBase\\Acme.BookStore.TestBase.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.TestBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
+                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Volo.Abp.Authorization": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.TestBase": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.deps.json
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.pdb
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.Shared.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.Shared.pdb
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.csprojAssemblyReference.cache
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.AssemblyInfo.cs
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.csproj.CopyComplete
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.pdb

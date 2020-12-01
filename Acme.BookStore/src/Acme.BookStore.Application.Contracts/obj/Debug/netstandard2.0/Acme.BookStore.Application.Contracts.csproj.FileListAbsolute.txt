@@ -1,0 +1,12 @@
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.deps.json
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.pdb
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.csprojAssemblyReference.cache
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.AssemblyInfo.cs
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.csproj.CopyComplete
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.pdb

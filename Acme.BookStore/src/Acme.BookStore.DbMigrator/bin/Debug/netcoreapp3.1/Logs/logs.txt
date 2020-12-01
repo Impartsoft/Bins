@@ -1,0 +1,28 @@
+2020-11-04 22:30:24.135 +08:00 [INF] Started database migrations...
+2020-11-04 22:30:24.181 +08:00 [INF] Migrating schema for host database...
+2020-11-04 22:30:28.643 +08:00 [ERR] Failed executing DbCommand (37ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AbpAuditLogs] (
+    [Id] uniqueidentifier NOT NULL,
+    [ExtraProperties] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(40) NULL,
+    [ApplicationName] nvarchar(96) NULL,
+    [UserId] uniqueidentifier NULL,
+    [UserName] nvarchar(256) NULL,
+    [TenantId] uniqueidentifier NULL,
+    [TenantName] nvarchar(max) NULL,
+    [ImpersonatorUserId] uniqueidentifier NULL,
+    [ImpersonatorTenantId] uniqueidentifier NULL,
+    [ExecutionTime] datetime2 NOT NULL,
+    [ExecutionDuration] int NOT NULL,
+    [ClientIpAddress] nvarchar(64) NULL,
+    [ClientName] nvarchar(128) NULL,
+    [ClientId] nvarchar(64) NULL,
+    [CorrelationId] nvarchar(64) NULL,
+    [BrowserInfo] nvarchar(512) NULL,
+    [HttpMethod] nvarchar(16) NULL,
+    [Url] nvarchar(256) NULL,
+    [Exceptions] nvarchar(4000) NULL,
+    [Comments] nvarchar(256) NULL,
+    [HttpStatusCode] int NULL,
+    CONSTRAINT [PK_AbpAuditLogs] PRIMARY KEY ([Id])
+);

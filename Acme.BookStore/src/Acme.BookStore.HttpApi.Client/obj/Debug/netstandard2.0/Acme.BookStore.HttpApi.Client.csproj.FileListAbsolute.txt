@@ -1,0 +1,14 @@
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\bin\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.deps.json
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\bin\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\bin\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.pdb
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.pdb
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\obj\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.csprojAssemblyReference.cache
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\obj\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\obj\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.AssemblyInfo.cs
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\obj\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\obj\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.csproj.CopyComplete
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\obj\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.dll
+E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.HttpApi.Client\obj\Debug\netstandard2.0\Acme.BookStore.HttpApi.Client.pdb

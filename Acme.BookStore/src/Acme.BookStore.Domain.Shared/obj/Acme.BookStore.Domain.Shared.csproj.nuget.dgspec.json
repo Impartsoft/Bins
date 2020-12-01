@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {}
+  },
+  "projects": {
+    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "projectName": "Acme.BookStore.Domain.Shared",
+        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.IdentityServer.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Volo.Abp.TenantManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
