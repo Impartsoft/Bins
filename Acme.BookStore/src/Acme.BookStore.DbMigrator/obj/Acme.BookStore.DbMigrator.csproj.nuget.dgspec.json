@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.DbMigrator\\Acme.BookStore.DbMigrator.csproj": {}
+    "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.DbMigrator\\Acme.BookStore.DbMigrator.csproj": {}
   },
   "projects": {
-    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
+    "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
         "projectName": "Acme.BookStore.Application.Contracts",
-        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
+        "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application.Contracts\\obj\\",
+        "outputPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,8 +29,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
-                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj"
+              "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+                "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.DbMigrator\\Acme.BookStore.DbMigrator.csproj": {
+    "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.DbMigrator\\Acme.BookStore.DbMigrator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.DbMigrator\\Acme.BookStore.DbMigrator.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.DbMigrator\\Acme.BookStore.DbMigrator.csproj",
         "projectName": "Acme.BookStore.DbMigrator",
-        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.DbMigrator\\Acme.BookStore.DbMigrator.csproj",
+        "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.DbMigrator\\Acme.BookStore.DbMigrator.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.DbMigrator\\obj\\",
+        "outputPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.DbMigrator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -114,11 +114,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
-                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj"
+              "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
+                "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj"
               },
-              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj": {
-                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj"
+              "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj": {
+                "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj"
               }
             }
           }
@@ -179,14 +179,14 @@
         }
       }
     },
-    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+    "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
         "projectName": "Acme.BookStore.Domain.Shared",
-        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\obj\\",
+        "outputPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -272,14 +272,14 @@
         }
       }
     },
-    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
+    "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj",
         "projectName": "Acme.BookStore.Domain",
-        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj",
+        "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\obj\\",
+        "outputPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -297,8 +297,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
-                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj"
+              "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+                "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj"
               }
             }
           }
@@ -371,14 +371,14 @@
         }
       }
     },
-    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj": {
+    "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj",
         "projectName": "Acme.BookStore.EntityFrameworkCore.DbMigrations",
-        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj",
+        "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\Acme.BookStore.EntityFrameworkCore.DbMigrations.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\obj\\",
+        "outputPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore.DbMigrations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -396,8 +396,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj": {
-                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj"
+              "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj": {
+                "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj"
               }
             }
           }
@@ -438,14 +438,14 @@
         }
       }
     },
-    "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj": {
+    "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj",
         "projectName": "Acme.BookStore.EntityFrameworkCore",
-        "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj",
+        "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore\\Acme.BookStore.EntityFrameworkCore.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.EntityFrameworkCore\\obj\\",
+        "outputPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -463,8 +463,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
-                "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj"
+              "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj": {
+                "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Domain\\Acme.BookStore.Domain.csproj"
               }
             }
           }

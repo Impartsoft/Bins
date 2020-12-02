@@ -5269,11 +5269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj",
+      "projectUniqueName": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj",
       "projectName": "Acme.BookStore.HttpApi",
-      "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj",
+      "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.HttpApi\\obj\\",
+      "outputPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.HttpApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5291,8 +5291,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
-              "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj"
+            "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
+              "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj"
             }
           }
         }

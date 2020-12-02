@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oT2At9mztQ4myp7WGqwwoks8Av1ulRsg9CNI0K0I/GwmqHf7wL3hPzFhClIfyW4CfS57bXS5lKXeM1/IvvJM2g==",
+  "dgSpecHash": "PZ1xmXVCyRfIdEQXGVsHQEBcdpDYaBhgzrlPRa+lNMCAQg+v009oZcOC6qHy2KdkQ6wWFHtrXZquh3LQx7limA==",
   "success": true,
-  "projectFilePath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application\\Acme.BookStore.Application.csproj",
+  "projectFilePath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application\\Acme.BookStore.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",

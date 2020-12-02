@@ -14799,11 +14799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Web.Tests\\Acme.BookStore.Web.Tests.csproj",
+      "projectUniqueName": "E:\\WorkSpace\\bins\\Acme.BookStore\\test\\Acme.BookStore.Web.Tests\\Acme.BookStore.Web.Tests.csproj",
       "projectName": "Acme.BookStore.Web.Tests",
-      "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Web.Tests\\Acme.BookStore.Web.Tests.csproj",
+      "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\test\\Acme.BookStore.Web.Tests\\Acme.BookStore.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Web.Tests\\obj\\",
+      "outputPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\test\\Acme.BookStore.Web.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14821,11 +14821,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Web\\Acme.BookStore.Web.csproj": {
-              "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Web\\Acme.BookStore.Web.csproj"
+            "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Web\\Acme.BookStore.Web.csproj": {
+              "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Web\\Acme.BookStore.Web.csproj"
             },
-            "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Application.Tests\\Acme.BookStore.Application.Tests.csproj": {
-              "projectPath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\test\\Acme.BookStore.Application.Tests\\Acme.BookStore.Application.Tests.csproj"
+            "E:\\WorkSpace\\bins\\Acme.BookStore\\test\\Acme.BookStore.Application.Tests\\Acme.BookStore.Application.Tests.csproj": {
+              "projectPath": "E:\\WorkSpace\\bins\\Acme.BookStore\\test\\Acme.BookStore.Application.Tests\\Acme.BookStore.Application.Tests.csproj"
             }
           }
         }

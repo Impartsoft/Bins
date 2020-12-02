@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5DYGMsEICPNZ3NlRteg/ylUSSaXUhEYnhmQjMLYJxid8LspUexDrBr7shuiyvkU5UMVJC0n0jLZYSHlsKUy5/A==",
+  "dgSpecHash": "7I10sVrhbgSIo132ugNEkowmYrm5G4M3u9dek44mi1NKXSStMUGtSCrJKLayx680urcHQDoyml0TKBeifCD4fw==",
   "success": true,
-  "projectFilePath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Web\\Acme.BookStore.Web.csproj",
+  "projectFilePath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Web\\Acme.BookStore.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac.extras.dynamicproxy\\5.0.0\\autofac.extras.dynamicproxy.5.0.0.nupkg.sha512",

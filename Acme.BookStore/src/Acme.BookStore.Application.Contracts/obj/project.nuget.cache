@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fX3qaMGN8GoDz515j1drw5Ud8pz/fCffgE1zJHri2Jra68+qAwwQLhk6o0m/g6o3wd4qQuMbaaeRobCDavRkjQ==",
+  "dgSpecHash": "UHHbg10N8AjXgN3Vr8MGuJNfPhJLnvZvRCsN700WUwZoRet7SyvXZxEXePKo0V6m15sb56hvYRnPhw/eAIy9Mg==",
   "success": true,
-  "projectFilePath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
+  "projectFilePath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\jetbrains.annotations\\2020.1.0\\jetbrains.annotations.2020.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",

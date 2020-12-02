@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SxoFopUY3tSEsEs3NVTDDyIde+yqrgK6ZZCTL6339M7iFXYWqzi3K2pV8lI8R1N9EQfm/XR/EIbTpKPXd8qWhg==",
+  "dgSpecHash": "hhzMdO5eRahDX5NeRI8w/PZPFeN1Ok5pKSXvTXGWP5DTp8lMr9LYdNveLNLIOpulkZSK4K6OjxYZtkGc3CNs6g==",
   "success": true,
-  "projectFilePath": "E:\\WorkSpace\\CSharp\\abp\\abp-samples-master\\BookStore-Mvc-EfCore\\src\\Acme.BookStore.HttpApi.Client\\Acme.BookStore.HttpApi.Client.csproj",
+  "projectFilePath": "E:\\WorkSpace\\bins\\Acme.BookStore\\src\\Acme.BookStore.HttpApi.Client\\Acme.BookStore.HttpApi.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\castle.core.asyncinterceptor\\2.0.21-alpha\\castle.core.asyncinterceptor.2.0.21-alpha.nupkg.sha512",

@@ -12,3 +12,17 @@ E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookSto
 E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.csproj.CopyComplete
 E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.dll
 E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.pdb
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.deps.json
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.dll
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.pdb
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.dll
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.Shared.dll
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.pdb
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.Shared.pdb
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.csprojAssemblyReference.cache
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.AssemblyInfoInputs.cache
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.AssemblyInfo.cs
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.csproj.CopyComplete
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.dll
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Acme.BookStore.EntityFrameworkCore.pdb

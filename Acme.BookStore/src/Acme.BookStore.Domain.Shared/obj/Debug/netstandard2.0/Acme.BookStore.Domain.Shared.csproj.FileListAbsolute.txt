@@ -8,3 +8,13 @@ E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookSto
 E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
 E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
 E:\WorkSpace\CSharp\abp\abp-samples-master\BookStore-Mvc-EfCore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.deps.json
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.csprojAssemblyReference.cache
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.EmbeddedFilesManifest.cache
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.AssemblyInfoInputs.cache
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.AssemblyInfo.cs
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+E:\WorkSpace\bins\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
