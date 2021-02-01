@@ -1,0 +1,12 @@
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\bin\Debug\netcoreapp3.1\MailKitDemo.exe
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\bin\Debug\netcoreapp3.1\MailKitDemo.deps.json
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\bin\Debug\netcoreapp3.1\MailKitDemo.runtimeconfig.json
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\bin\Debug\netcoreapp3.1\MailKitDemo.runtimeconfig.dev.json
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\bin\Debug\netcoreapp3.1\MailKitDemo.dll
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\bin\Debug\netcoreapp3.1\MailKitDemo.pdb
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\obj\Debug\netcoreapp3.1\MailKitDemo.csprojAssemblyReference.cache
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\obj\Debug\netcoreapp3.1\MailKitDemo.AssemblyInfoInputs.cache
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\obj\Debug\netcoreapp3.1\MailKitDemo.AssemblyInfo.cs
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\obj\Debug\netcoreapp3.1\MailKitDemo.dll
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\obj\Debug\netcoreapp3.1\MailKitDemo.pdb
+E:\WorkSpace\bins\MailKitDemo\MailKitDemo\obj\Debug\netcoreapp3.1\MailKitDemo.genruntimeconfig.cache
