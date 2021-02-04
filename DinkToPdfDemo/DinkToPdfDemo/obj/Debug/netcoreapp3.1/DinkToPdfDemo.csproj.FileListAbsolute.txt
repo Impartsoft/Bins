@@ -1,0 +1,16 @@
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\bin\Debug\netcoreapp3.1\DinkToPdfDemo.exe
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\obj\Debug\netcoreapp3.1\DinkToPdfDemo.csprojAssemblyReference.cache
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\obj\Debug\netcoreapp3.1\DinkToPdfDemo.AssemblyInfoInputs.cache
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\obj\Debug\netcoreapp3.1\DinkToPdfDemo.AssemblyInfo.cs
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\bin\Debug\netcoreapp3.1\DinkToPdf.dll
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\obj\Debug\netcoreapp3.1\DinkToPdfDemo.csproj.CopyComplete
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\obj\Debug\netcoreapp3.1\DinkToPdfDemo.csproj.CoreCompileInputs.cache
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\bin\Debug\netcoreapp3.1\DinkToPdfDemo.deps.json
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\bin\Debug\netcoreapp3.1\DinkToPdfDemo.runtimeconfig.json
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\bin\Debug\netcoreapp3.1\DinkToPdfDemo.runtimeconfig.dev.json
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\bin\Debug\netcoreapp3.1\DinkToPdfDemo.dll
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\bin\Debug\netcoreapp3.1\DinkToPdfDemo.pdb
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\obj\Debug\netcoreapp3.1\DinkToPdfDemo.dll
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\obj\Debug\netcoreapp3.1\DinkToPdfDemo.pdb
+E:\WorkSpace\bins\DinkToPdfDemo\DinkToPdfDemo\obj\Debug\netcoreapp3.1\DinkToPdfDemo.genruntimeconfig.cache

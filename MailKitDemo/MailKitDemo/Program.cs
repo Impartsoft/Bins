@@ -17,7 +17,8 @@ namespace MailKitDemo
         {
             using (var client = new ImapClient())
             {
-                client.Connect("imap.exmail.qq.com", 993, SecureSocketOptions.SslOnConnect);
+                client.Connect("imap.exmail.qq.com", 143, SecureSocketOptions.None);
+                //client.Connect("imap.exmail.qq.com", 993, SecureSocketOptions.SslOnConnect);
 
                 client.Authenticate(MAIL_NAME, MAIL_PASSWORD);
 
