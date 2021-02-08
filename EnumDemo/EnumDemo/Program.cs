@@ -32,10 +32,10 @@ namespace EnumDemo
 
             // 获取所有的枚举成员
             Array yesOrNos = Enum.GetValues(typeof(YesOrNo)); // [YesOrNo.None,YesOrNo.Yes,YesOrNo.No]
-            // 获取所有枚举成员的字段名
+            // 获取所有枚举成员的属性名
             string[] yesOrNoNames = Enum.GetNames(typeof(YesOrNo)); // ["None","Yes","No"]
 
-            // 获取枚举所属的数字类型
+            // 获取枚的举基础类型
             Type typeInt = Enum.GetUnderlyingType(typeof(YesOrNo)); // System.Int32
             Type typeByte = Enum.GetUnderlyingType(typeof(YesOrNo_Byte)); // System.Byte
         }

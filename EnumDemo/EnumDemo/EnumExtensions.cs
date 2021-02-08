@@ -22,6 +22,9 @@ namespace EnumDemo
             return Convert.ToInt32(value);
         }
 
+        /// <summary>
+        /// 根据枚举获取枚举描述
+        /// </summary>
         public static string GetDescription(this Enum value)
         {
             var field = value.GetType().GetField(value.ToString());
