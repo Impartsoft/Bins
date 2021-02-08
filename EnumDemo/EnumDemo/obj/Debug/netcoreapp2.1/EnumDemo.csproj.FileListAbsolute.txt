@@ -1,0 +1,11 @@
+D:\workspace\Bins\EnumDemo\EnumDemo\bin\Debug\netcoreapp2.1\EnumDemo.deps.json
+D:\workspace\Bins\EnumDemo\EnumDemo\bin\Debug\netcoreapp2.1\EnumDemo.runtimeconfig.json
+D:\workspace\Bins\EnumDemo\EnumDemo\bin\Debug\netcoreapp2.1\EnumDemo.runtimeconfig.dev.json
+D:\workspace\Bins\EnumDemo\EnumDemo\bin\Debug\netcoreapp2.1\EnumDemo.dll
+D:\workspace\Bins\EnumDemo\EnumDemo\bin\Debug\netcoreapp2.1\EnumDemo.pdb
+D:\workspace\Bins\EnumDemo\EnumDemo\obj\Debug\netcoreapp2.1\EnumDemo.csprojAssemblyReference.cache
+D:\workspace\Bins\EnumDemo\EnumDemo\obj\Debug\netcoreapp2.1\EnumDemo.csproj.CoreCompileInputs.cache
+D:\workspace\Bins\EnumDemo\EnumDemo\obj\Debug\netcoreapp2.1\EnumDemo.AssemblyInfoInputs.cache
+D:\workspace\Bins\EnumDemo\EnumDemo\obj\Debug\netcoreapp2.1\EnumDemo.AssemblyInfo.cs
+D:\workspace\Bins\EnumDemo\EnumDemo\obj\Debug\netcoreapp2.1\EnumDemo.dll
+D:\workspace\Bins\EnumDemo\EnumDemo\obj\Debug\netcoreapp2.1\EnumDemo.pdb
