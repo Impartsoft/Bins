@@ -8,7 +8,7 @@ namespace EnumDemo
         /// <summary>
         /// C#关于枚举使用一些总结以及扩展类的分享
         /// 作者：Iannnnnnnnnnnnn
-        /// 博客：https://www.cnblogs.com/Iannnnnnnnnnnnnhttps://www.cnblogs.com/Iannnnnnnnnnnnn
+        /// 博客：https://www.cnblogs.com/Iannnnnnnnnnnnn/p/14389524.html
         /// </summary>
         static void Main(string[] args)
         {

@@ -3,6 +3,10 @@ using System;
 
 namespace DinkToPdfDemo
 {
+    /// <summary>
+    /// .NET使用DinkToPdf将HTML转成PDF
+    /// 作者：Iannnnnnnnnnnnn
+    /// 博客：https://www.cnblogs.com/Iannnnnnnnnnnnn/p/14375513.html
     public class Program
     {
         public static void Main(string[] args)

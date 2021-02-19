@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\Bins\\EnumDemo\\EnumDemo\\EnumDemo.csproj",
+      "projectUniqueName": "E:\\WorkSpace\\bins\\EnumDemo\\EnumDemo\\EnumDemo.csproj",
       "projectName": "EnumDemo",
-      "projectPath": "D:\\workspace\\Bins\\EnumDemo\\EnumDemo\\EnumDemo.csproj",
+      "projectPath": "E:\\WorkSpace\\bins\\EnumDemo\\EnumDemo\\EnumDemo.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\Bins\\EnumDemo\\EnumDemo\\obj\\",
+      "outputPath": "E:\\WorkSpace\\bins\\EnumDemo\\EnumDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -728,6 +728,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

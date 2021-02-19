@@ -8,6 +8,11 @@ using System.Linq;
 
 namespace MailKitDemo
 {
+    /// <summary>
+    /// .NET使用MailKit进行邮件处理
+    /// 作者：Iannnnnnnnnnnnn
+    /// 博客：https://www.cnblogs.com/Iannnnnnnnnnnnn/p/14359043.html
+    /// </summary>
     class Program
     {
         private const string MAIL_NAME = "";
