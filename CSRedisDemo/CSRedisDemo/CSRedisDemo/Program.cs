@@ -20,11 +20,13 @@ namespace CSRedisDemo
 
         private static void CSRedisTest()
         {
+            // 设值
             RedisHelper.Set("Jordan", "2");
             string jordan = RedisHelper.Get("Jordan");
 
             string lemon = RedisHelper.Get("Lemon");
 
+            // 设值并设置过期时间
             RedisHelper.Set("Bill", "200", 5);
             string bill = RedisHelper.Get("Bill");
             Thread.Sleep(5000);
