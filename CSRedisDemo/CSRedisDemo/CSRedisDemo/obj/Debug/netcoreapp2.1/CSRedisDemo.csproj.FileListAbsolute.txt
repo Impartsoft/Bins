@@ -1,0 +1,11 @@
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.deps.json
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.runtimeconfig.json
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.runtimeconfig.dev.json
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.dll
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.csprojAssemblyReference.cache
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.csproj.CoreCompileInputs.cache
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.AssemblyInfoInputs.cache
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.AssemblyInfo.cs
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.pdb
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.dll
+D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.pdb
