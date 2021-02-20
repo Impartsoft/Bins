@@ -93,7 +93,7 @@ namespace CSRedisDemo
             if (value == null) //删除操作执行更新时，移除掉key
                 RedisHelper.Del(key);
             else
-                RedisHelper.Set(key, value, _expireTime);
+                RedisHelper.Set(key, value, _expireTime + 200 * new Random().Next(1, 10));
         }
 
         private RedisValue GetRedisValueByKey(string key)

@@ -9,3 +9,15 @@ D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CS
 D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.pdb
 D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.dll
 D:\workspace\Bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.pdb
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.deps.json
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.runtimeconfig.json
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.runtimeconfig.dev.json
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.dll
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\bin\Debug\netcoreapp2.1\CSRedisDemo.pdb
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.csprojAssemblyReference.cache
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.AssemblyInfoInputs.cache
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.AssemblyInfo.cs
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.csproj.CoreCompileInputs.cache
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.dll
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.pdb
+E:\WorkSpace\bins\CSRedisDemo\CSRedisDemo\CSRedisDemo\obj\Debug\netcoreapp2.1\CSRedisDemo.genruntimeconfig.cache
