@@ -7,6 +7,11 @@ namespace mongoDBDemo
 {
     class Mongo
     {
+        /// <summary>
+        /// .net使用MongoDB的学习笔记
+        /// 作者：Iannnnnnnnnnnnn
+        /// 博客：https://www.cnblogs.com/Iannnnnnnnnnnnn/p/14427538.html
+        /// </summary>
         private static IMongoCollection<BsonDocument> GetMongoCollection()
         {
             var client = new MongoClient("mongodb://localhost:27017");
