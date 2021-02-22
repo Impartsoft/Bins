@@ -1,0 +1,16 @@
+D:\workspace\Bins\RabbitMQDemo\1_Send\bin\Debug\netcoreapp3.1\1_Send.exe
+D:\workspace\Bins\RabbitMQDemo\1_Send\bin\Debug\netcoreapp3.1\1_Send.deps.json
+D:\workspace\Bins\RabbitMQDemo\1_Send\bin\Debug\netcoreapp3.1\1_Send.runtimeconfig.json
+D:\workspace\Bins\RabbitMQDemo\1_Send\bin\Debug\netcoreapp3.1\1_Send.runtimeconfig.dev.json
+D:\workspace\Bins\RabbitMQDemo\1_Send\bin\Debug\netcoreapp3.1\1_Send.dll
+D:\workspace\Bins\RabbitMQDemo\1_Send\bin\Debug\netcoreapp3.1\1_Send.pdb
+D:\workspace\Bins\RabbitMQDemo\1_Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\workspace\Bins\RabbitMQDemo\1_Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\workspace\Bins\RabbitMQDemo\1_Send\obj\Debug\netcoreapp3.1\1_Send.csprojAssemblyReference.cache
+D:\workspace\Bins\RabbitMQDemo\1_Send\obj\Debug\netcoreapp3.1\1_Send.AssemblyInfoInputs.cache
+D:\workspace\Bins\RabbitMQDemo\1_Send\obj\Debug\netcoreapp3.1\1_Send.AssemblyInfo.cs
+D:\workspace\Bins\RabbitMQDemo\1_Send\obj\Debug\netcoreapp3.1\1_Send.csproj.CoreCompileInputs.cache
+D:\workspace\Bins\RabbitMQDemo\1_Send\obj\Debug\netcoreapp3.1\1_Send.csproj.CopyComplete
+D:\workspace\Bins\RabbitMQDemo\1_Send\obj\Debug\netcoreapp3.1\1_Send.dll
+D:\workspace\Bins\RabbitMQDemo\1_Send\obj\Debug\netcoreapp3.1\1_Send.pdb
+D:\workspace\Bins\RabbitMQDemo\1_Send\obj\Debug\netcoreapp3.1\1_Send.genruntimeconfig.cache
