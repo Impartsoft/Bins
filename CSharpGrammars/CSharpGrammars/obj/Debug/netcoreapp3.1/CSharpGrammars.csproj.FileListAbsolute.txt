@@ -11,3 +11,16 @@ D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGr
 D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.dll
 D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.pdb
 D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.genruntimeconfig.cache
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.exe
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.deps.json
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.runtimeconfig.json
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.runtimeconfig.dev.json
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.dll
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.pdb
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.csprojAssemblyReference.cache
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.AssemblyInfoInputs.cache
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.AssemblyInfo.cs
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.csproj.CoreCompileInputs.cache
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.dll
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.pdb
+E:\WorkSpace\bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.genruntimeconfig.cache

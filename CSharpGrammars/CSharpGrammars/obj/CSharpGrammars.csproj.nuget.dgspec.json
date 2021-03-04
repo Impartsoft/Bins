@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\Bins\\CSharpGrammars\\CSharpGrammars\\CSharpGrammars.csproj": {}
+    "E:\\WorkSpace\\bins\\CSharpGrammars\\CSharpGrammars\\CSharpGrammars.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\Bins\\CSharpGrammars\\CSharpGrammars\\CSharpGrammars.csproj": {
+    "E:\\WorkSpace\\bins\\CSharpGrammars\\CSharpGrammars\\CSharpGrammars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\Bins\\CSharpGrammars\\CSharpGrammars\\CSharpGrammars.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\bins\\CSharpGrammars\\CSharpGrammars\\CSharpGrammars.csproj",
         "projectName": "CSharpGrammars",
-        "projectPath": "D:\\workspace\\Bins\\CSharpGrammars\\CSharpGrammars\\CSharpGrammars.csproj",
+        "projectPath": "E:\\WorkSpace\\bins\\CSharpGrammars\\CSharpGrammars\\CSharpGrammars.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\Bins\\CSharpGrammars\\CSharpGrammars\\obj\\",
+        "outputPath": "E:\\WorkSpace\\bins\\CSharpGrammars\\CSharpGrammars\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

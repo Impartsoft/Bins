@@ -2,7 +2,8 @@
 
 namespace CSharpGrammars
 {
-    // https://docs.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/features
+    // CSharp语法官方介绍 https://docs.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/features
+    // 委托博客 https://www.cnblogs.com/SkySoot/archive/2012/04/05/2433639.html
     class Program
     {
         static void Main(string[] args)
@@ -14,8 +15,11 @@ namespace CSharpGrammars
             //s2.SayHello();
             //s2.SayHello2();
 
-            var s3 = new DelegateTest3();
-            s3.SayHello();
+            //var s3 = new DelegateTest3();
+            //s3.SayHello();
+
+            var s4 = new DelegateTest4();
+            s4.MainSayHello();
 
             BoxingAndUnboxing();
 
