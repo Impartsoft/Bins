@@ -1,0 +1,13 @@
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.exe
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.deps.json
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.runtimeconfig.json
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.runtimeconfig.dev.json
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.dll
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\bin\Debug\netcoreapp3.1\CSharpGrammars.pdb
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.csprojAssemblyReference.cache
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.AssemblyInfoInputs.cache
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.AssemblyInfo.cs
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.csproj.CoreCompileInputs.cache
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.dll
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.pdb
+D:\workspace\Bins\CSharpGrammars\CSharpGrammars\obj\Debug\netcoreapp3.1\CSharpGrammars.genruntimeconfig.cache
