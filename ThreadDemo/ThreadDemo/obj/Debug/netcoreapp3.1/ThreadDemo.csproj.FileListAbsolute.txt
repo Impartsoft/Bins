@@ -1,0 +1,13 @@
+D:\workspace\Bins\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.csprojAssemblyReference.cache
+D:\workspace\Bins\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.AssemblyInfoInputs.cache
+D:\workspace\Bins\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.AssemblyInfo.cs
+D:\workspace\Bins\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.csproj.CoreCompileInputs.cache
+D:\workspace\Bins\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.exe
+D:\workspace\Bins\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.deps.json
+D:\workspace\Bins\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.runtimeconfig.json
+D:\workspace\Bins\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.runtimeconfig.dev.json
+D:\workspace\Bins\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.dll
+D:\workspace\Bins\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.pdb
+D:\workspace\Bins\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.dll
+D:\workspace\Bins\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.pdb
+D:\workspace\Bins\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.genruntimeconfig.cache
