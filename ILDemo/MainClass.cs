@@ -12,7 +12,7 @@ namespace ILDemo
     {
         public static int Main()
         {
-            Type[] wlParams = new Type[] {typeof(string)};
+            Type[] wlParams = new Type[] {typeof(int)};
 
             MethodInfo writeLineMI = typeof(Console).GetMethod(
                             "WriteLine",
