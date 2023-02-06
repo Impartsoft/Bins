@@ -10,7 +10,7 @@ namespace ILDemo
 {
     class MainClass
     {
-        public static int Main()
+        public static void Main()
         {
             Type[] wlParams = new Type[] {typeof(int)};
 
@@ -29,7 +29,6 @@ namespace ILDemo
 
             var deleg = (Action)dynMethod.CreateDelegate(typeof(Action));
             deleg();
-            return 0;
         }
     }
 }
