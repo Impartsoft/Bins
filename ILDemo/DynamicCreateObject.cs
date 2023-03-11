@@ -14,7 +14,10 @@ namespace ILDemo
             ModuleBuilder mymodule = AssemblyBuilder.DefineDynamicAssembly(new System.Reflection.AssemblyName("Test"), AssemblyBuilderAccess.Run).DefineDynamicModule(nameof(mymodule));
 
             var type = mymodule.DefineType("MyType");
-            type.DefineField();
+            type.DefineField("Id", typeof(int), System.Reflection.FieldAttributes.Public);
+            type.DefineField("Name", typeof(string), System.Reflection.FieldAttributes.Public);
+
+
         }
     }
 }
