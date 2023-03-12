@@ -17,7 +17,7 @@ namespace ILDemo
             type.DefineField("Id", typeof(int), System.Reflection.FieldAttributes.Public);
             type.DefineField("Name", typeof(string), System.Reflection.FieldAttributes.Public);
 
-
+            type.DefineMethod("ToJson", System.Reflection.MethodAttributes.Public, typeof(string), Type.EmptyTypes);
         }
     }
 }
