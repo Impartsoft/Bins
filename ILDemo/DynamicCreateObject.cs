@@ -9,15 +9,19 @@ namespace ILDemo
 {
     internal class DynamicCreateObject
     {
-        public void Test()
+        public object Test()
         {
             ModuleBuilder mymodule = AssemblyBuilder.DefineDynamicAssembly(new System.Reflection.AssemblyName("Test"), AssemblyBuilderAccess.Run).DefineDynamicModule(nameof(mymodule));
 
-            var type = mymodule.DefineType("MyType");
-            type.DefineField("Id", typeof(int), System.Reflection.FieldAttributes.Public);
-            type.DefineField("Name", typeof(string), System.Reflection.FieldAttributes.Public);
+            var typeBuilder = mymodule.DefineType("MyType");
+            typeBuilder.DefineField("Id", typeof(int), System.Reflection.FieldAttributes.Public);
+            typeBuilder.DefineField("Name", typeof(string), System.Reflection.FieldAttributes.Public);
 
-            type.DefineMethod("ToJson", System.Reflection.MethodAttributes.Public, typeof(string), Type.EmptyTypes);
+            var methodIL = typeBuilder.DefineMethod("ToJson", System.Reflection.MethodAttributes.Public, typeof(string), Type.EmptyTypes);
+            var methodGenerator = methodIL.GetILGenerator();
+            methodGenerator.Emit(OpCodes.Ldarg_0);
+
+            return Activator.CreateInstance(typeBuilder.CreateType());
         }
     }
 }
