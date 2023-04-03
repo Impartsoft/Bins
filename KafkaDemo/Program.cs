@@ -21,8 +21,3 @@ using (var producer = new ProducerBuilder<Null, string>(config).Build())
 
     producer.Flush(TimeSpan.FromSeconds(10));
 }
-
-
-
-
-
