@@ -34,13 +34,12 @@ namespace ThreadDemo
             foreach (var tfile in file2s)
                 Console.WriteLine(tfile.Path);
 
-
-            //// dosomething
-            //Console.WriteLine("方法一、当前线程ID:" + Thread.CurrentThread.ManagedThreadId);
-            //await DoSomething();
-            //Console.WriteLine("方法二、当前线程ID:" + Thread.CurrentThread.ManagedThreadId);
-            //// dosomething
-            //Console.ReadLine();
+            // dosomething
+            Console.WriteLine("方法一、当前线程ID:" + Thread.CurrentThread.ManagedThreadId);
+            await DoSomething();
+            Console.WriteLine("方法二、当前线程ID:" + Thread.CurrentThread.ManagedThreadId);
+            // dosomething
+            Console.ReadLine();
         }
 
         private async static Task DoSomething()
