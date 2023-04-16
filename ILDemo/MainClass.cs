@@ -31,25 +31,25 @@ namespace ILDemo
             deleg();
         }
 
-        private void Test2() { 
+        //private void Test2() { 
         
-                 Type[] wlParams = new Type[] {typeof(int)};
+        //         Type[] wlParams = new Type[] {typeof(int)};
 
-            MethodInfo writeLineMI = typeof(Console).GetMethod(
-                            "WriteLine",
-                        wlParams);
+        //    MethodInfo writeLineMI = typeof(Console).GetMethod(
+        //                    "WriteLine",
+        //                wlParams);
 
-            var dynMethod = new DynamicMethod("Metoda", MethodAttributes.Public | MethodAttributes.Static, CallingConventions.Standard,
-                              null, Type.EmptyTypes, typeof(MainClass), true);
-            var il = dynMethod.GetILGenerator();
-            il.Emit(OpCodes.Ldc_I4_7);
+        //    var dynMethod = new DynamicMethod("Metoda", MethodAttributes.Public | MethodAttributes.Static, CallingConventions.Standard,
+        //                      null, Type.EmptyTypes, typeof(MainClass), true);
+        //    var il = dynMethod.GetILGenerator();
+        //    il.Emit(OpCodes.Ldc_I4_7);
 
-            il.Emit(OpCodes.Call, writeLineMI);
+        //    il.Emit(OpCodes.Call, writeLineMI);
          
-            il.Emit(OpCodes.Ret);
+        //    il.Emit(OpCodes.Ret);
 
-            var deleg = (Func)dynMethod.CreateDelegate(typeof(Func));
-            deleg();
-        }
+        //    var deleg = (Func)dynMethod.CreateDelegate(typeof(Func));
+        //    deleg();
+        //}
     }
 }
