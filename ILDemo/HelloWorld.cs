@@ -20,16 +20,28 @@ namespace ILDemo
             var assemblyBuilder = AssemblyBuilder.DefineDynamicAssembly(assemblyName, AssemblyBuilderAccess.Run);
 
             var assemblyModule = assemblyBuilder.DefineDynamicModule("HelloWorldModule");
-            var assemblyType = assemblyModule.DefineType("HelloWorld", TypeAttributes.Public);
-            var methodBuilder = assemblyType.DefineMethod("Print", MethodAttributes.Public | MethodAttributes.Static);
-            var il= methodBuilder.GetILGenerator();
+            var typeBuilder = assemblyModule.DefineType("HelloWorld", TypeAttributes.Public);
+            var methodBuilder = typeBuilder.DefineMethod("Print", MethodAttributes.Public | MethodAttributes.Static);
+            var il = methodBuilder.GetILGenerator();
 
             il.Emit(OpCodes.Ldstr, "HelloWorld");
-            il.Emit(OpCodes.Call,METHOD_INFO);
+
+            var parameterTypes = new Type[1];
+            parameterTypes[0] = typeof(string);
+
+            var consoleType = Type.GetType("System.Console, System.Console", true);
+            var methodInfo =  consoleType.GetMethod(nameof(Console.WriteLine),parameterTypes);
+
+            //MethodInfo METHOD_INFO = typeof(Console).GetMethod(nameof(Console.Write), new Type[] { typeof(string) });
+
+            il.Emit(OpCodes.Call, methodInfo);
             il.Emit(OpCodes.Ret);
 
-            var delegate1 = dm.CreateDelegate(typeof(Action));
-            delegate1.DynamicInvoke();
+            var type = typeBuilder.CreateType();
+            var assembly = Assembly.GetAssembly(type!);
+
+            type.GetMethod("Print").Invoke(null, null);
+
         }
 
     }

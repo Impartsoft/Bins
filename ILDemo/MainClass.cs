@@ -12,23 +12,25 @@ namespace ILDemo
     {
         public static void Main()
         {
-            Type[] wlParams = new Type[] {typeof(int)};
+            HelloWorld.DynamicMethodMyTest1();
 
-            MethodInfo writeLineMI = typeof(Console).GetMethod(
-                            "WriteLine",
-                        wlParams);
+            //Type[] wlParams = new Type[] {typeof(int)};
 
-            var dynMethod = new DynamicMethod("Metoda", MethodAttributes.Public | MethodAttributes.Static, CallingConventions.Standard,
-                              null, Type.EmptyTypes, typeof(MainClass), true);
-            var il = dynMethod.GetILGenerator();
-            il.Emit(OpCodes.Ldc_I4_7);
+            //MethodInfo writeLineMI = typeof(Console).GetMethod(
+            //                "WriteLine",
+            //            wlParams);
 
-            il.Emit(OpCodes.Call, writeLineMI);
-         
-            il.Emit(OpCodes.Ret);
+            //var dynMethod = new DynamicMethod("Metoda", MethodAttributes.Public | MethodAttributes.Static, CallingConventions.Standard,
+            //                  null, Type.EmptyTypes, typeof(MainClass), true);
+            //var il = dynMethod.GetILGenerator();
+            //il.Emit(OpCodes.Ldc_I4_7);
 
-            var deleg = (Action)dynMethod.CreateDelegate(typeof(Action));
-            deleg();
+            //il.Emit(OpCodes.Call, writeLineMI);
+
+            //il.Emit(OpCodes.Ret);
+
+            //var deleg = (Action)dynMethod.CreateDelegate(typeof(Action));
+            //deleg();
         }
 
         //private void Test2() { 
