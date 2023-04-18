@@ -12,7 +12,7 @@ namespace ILDemo
     {
         public static void Main()
         {
-            HelloWorld.DynamicMethodMyTest1();
+            HelloWorld2.DynamicMethodMyTest1();
 
             //Type[] wlParams = new Type[] {typeof(int)};
 

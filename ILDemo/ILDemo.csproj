@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Lokad.ILPack" Version="0.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HelloWorldAssembly">
+      <HintPath>bin\Debug\net6.0\HelloWorldAssembly.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

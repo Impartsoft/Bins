@@ -5,10 +5,11 @@ using System.Reflection;
 using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
+using Lokad.ILPack;
 
 namespace ILDemo
 {
-    internal class HelloWorld
+    internal class HelloWorld2
     {
         public static void DynamicMethodMyTest1()
         {
@@ -40,7 +41,8 @@ namespace ILDemo
             var type = typeBuilder.CreateType();
             var assembly = Assembly.GetAssembly(type!);
 
-            type.GetMethod("Print").Invoke(null, null);
+            var generator = new AssemblyGenerator();
+            generator.GenerateAssembly(assembly, "./HelloWorldAssembly.dll");
 
         }
 
