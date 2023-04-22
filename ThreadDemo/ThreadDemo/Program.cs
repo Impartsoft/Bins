@@ -9,22 +9,8 @@ namespace ThreadDemo
     {
         static async Task Main(string[] args)
         {
-            AsyncLocal<int> asyncLocal = new();
-            asyncLocal.Value = 1;
-
-            await WorkAsync();
-            Console.WriteLine(nameof(Main) + "：" + asyncLocal.Value);
-
-            async Task WorkAsync()
-            {
-                Console.WriteLine(nameof(WorkAsync) + "Start：" + asyncLocal.Value);
-
-                //asyncLocal.Value = 2;
-
-                Console.WriteLine(nameof(WorkAsync) + "End：" + asyncLocal.Value);
-            }
+           await AsyncLocalTest.AsyncLocalTest3();
         }
-
 
         private static async Task AsyncAwaitTest()
         {
