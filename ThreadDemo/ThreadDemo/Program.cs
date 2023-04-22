@@ -9,6 +9,25 @@ namespace ThreadDemo
     {
         static async Task Main(string[] args)
         {
+            AsyncLocal<int> asyncLocal = new();
+            asyncLocal.Value = 1;
+
+            await WorkAsync();
+            Console.WriteLine(nameof(Main) + "：" + asyncLocal.Value);
+
+            async Task WorkAsync()
+            {
+                Console.WriteLine(nameof(WorkAsync) + "Start：" + asyncLocal.Value);
+
+                //asyncLocal.Value = 2;
+
+                Console.WriteLine(nameof(WorkAsync) + "End：" + asyncLocal.Value);
+            }
+        }
+
+
+        private static async Task AsyncAwaitTest()
+        {
             Console.WriteLine("开始");
 
             File[] cs = new File[2];
@@ -51,7 +70,7 @@ namespace ThreadDemo
         }
     }
 
-    public static class Extentions
+    public static class AwaitAnythingExtentions
     {
         internal static TaskAwaiter GetAwaiter(this int milliseconds) => Task.Delay(milliseconds).GetAwaiter();
 
