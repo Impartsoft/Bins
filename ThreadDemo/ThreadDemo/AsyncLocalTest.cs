@@ -38,6 +38,7 @@ namespace ThreadDemo
 
         private static async Task WorkAsync3()
         {
+            await Task.Delay(100);
             Console.WriteLine(nameof(WorkAsync3) + "：" + The_int);
         }
 
@@ -53,6 +54,7 @@ namespace ThreadDemo
 
         private static async Task WorkAsync2()
         {
+            await Task.Delay(100);
             Console.WriteLine(nameof(WorkAsync2) + "：" + The_AsyncLocal.Value);
         }
     }

@@ -9,6 +9,9 @@ namespace ThreadDemo
     {
         static async Task Main(string[] args)
         {
+            //await AsyncTest2.Test();
+
+           await AsyncLocalTest.AsyncLocalTest2();
            await AsyncLocalTest.AsyncLocalTest3();
         }
 
