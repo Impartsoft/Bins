@@ -21,6 +21,8 @@ namespace ThreadDemo
         {
             Console.WriteLine("1.");
             string dogText = await File.ReadAllTextAsync("x");
+
+
         }
 
         //private static async Task AsyncAwaitTest()
