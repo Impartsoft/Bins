@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-public static class AsyncTest2
+public static class AsyncLocalTest2
 {
     static AsyncLocal<string> _asyncLocalString = new AsyncLocal<string>();
 
