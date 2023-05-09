@@ -10,7 +10,7 @@ using Socket client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, 
 client.Connect(listener.LocalEndPoint!);
 
 using Socket server = listener.Accept();
-_ = server.SendAsync(new byte[100_000]);
+//_ = server.SendAsync(new byte[100_000]);
 
 var mres = new ManualResetEventSlim();
 byte[] buffer = new byte[1];
